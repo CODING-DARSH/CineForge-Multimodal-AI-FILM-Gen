@@ -4,10 +4,9 @@
 
 CineForge is an end-to-end multimodal AI film generation pipeline. Input a short story, receive a complete short film with animated scenes, voice narration, and ambient soundscapes. Upload your photo to become the protagonist. Upload a voice sample to narrate in your own voice.
 
-[![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue)](https://huggingface.co/spaces/your-username/cineforge)
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 ---
 
